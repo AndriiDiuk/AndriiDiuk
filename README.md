@@ -8,3 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+
+
+### 𝗦𝘁𝗮𝘁𝘀
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=AndriiDiuk&show_icons=true&theme=dracula)
