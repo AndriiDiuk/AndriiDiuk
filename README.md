@@ -10,4 +10,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
 
-
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndriiDiuk&repo=anuraghazra.github.io&theme=buefy" />
+</a>
