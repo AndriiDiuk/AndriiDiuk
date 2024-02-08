@@ -9,4 +9,4 @@
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiDiuk&layout=compact&theme=buefy&hide_border=true" /></a> 
+
