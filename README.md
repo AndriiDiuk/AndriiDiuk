@@ -10,5 +10,4 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
 
-### 𝗦𝘁𝗮𝘁𝘀
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=AndriiDiuk&show_icons=true&theme=dracula)
+
