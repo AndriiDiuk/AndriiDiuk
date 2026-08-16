@@ -14,6 +14,8 @@
 ![Sanity](https://img.shields.io/badge/-Sanity-%23F03E2F?style=flat-square&logo=sanity&logoColor=ffffff)
 ![Payload CMS](https://img.shields.io/badge/-Payload_CMS-%23000000?style=flat-square&logo=payloadcms&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![Express](https://img.shields.io/badge/-Express-%23000000?style=flat-square&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![GSAP](https://img.shields.io/badge/-GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=000000)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=flat-square&logo=vercel&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
