@@ -17,3 +17,11 @@
 ![GSAP](https://img.shields.io/badge/-GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=000000)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=flat-square&logo=vercel&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+
+### Selected work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Modno Home](https://modno-home.vercel.app)** | Modular sofa storefront — product configurator, media gallery, transactional email | Next.js 16, Payload CMS, MongoDB, S3, Tailwind |
+| **[Excel Viewer](https://excel-viewer-beta.vercel.app)** | Internal tool built for one company's data workflow — parses their `.xlsx` / `.xlsb` exports in the browser for analysis, nothing leaves the machine | React 19, Vite, Redux Toolkit, SheetJS |
+| **[Parketni Roboty](https://andriidiuk.github.io/parketni-roboty/)** | Landing page for a flooring contractor — hand-written, semantic, responsive | HTML, CSS, GitHub Pages |
